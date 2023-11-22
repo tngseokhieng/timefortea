@@ -3,5 +3,6 @@ h1 {color: #F05A28;text-align: center; font-family: Georgia, 'Times New Roman', 
 h2 {text-align: center; font-size: 22px; font-weight: lighter;}
 h3 {color: #557571; text-indent: 250px; font-size: 20px;font-family: Georgia, 'Times New Roman', Times, serif;}
 h4 {text-indent: 1000px; font-weight: 400; font-size: 18px;}
+h6 {text-align: center; font-style: italic;}
 th {text-indent: 250px; text-align: left; font-size: 18px;}
 td {font-size: 18px;}
