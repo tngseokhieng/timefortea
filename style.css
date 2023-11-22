@@ -1,5 +1,6 @@
 body {background-image: url("./background22.jpeg"); background-repeat: no-repeat; background-size: 100%;}
 h1 {color: #CE2525; text-align: center; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 60px; font-weight: 900;}
+h6 {text-align: center; font-style: italic;}
 p {text-align: center; font-size: 24px;}
 th {text-indent: 475px;}
 td {font-weight: bold;}
